@@ -64,5 +64,3 @@ C:\Users\6666666\Source\Repos\-Final-exam\WebApplication11\WebApplication11\bin\
 C:\Users\6666666\Source\Repos\-Final-exam\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csprojResolveAssemblyReference.cache
 C:\Users\6666666\Source\Repos\-Final-exam\WebApplication11\WebApplication11\obj\Debug\WebApplication11.dll
 C:\Users\6666666\Source\Repos\-Final-exam\WebApplication11\WebApplication11\obj\Debug\WebApplication11.pdb
-C:\Users\6666666\Source\Repos\-Final-exam\WebApplication11\WebApplication11\bin\log4net.dll
-C:\Users\6666666\Source\Repos\-Final-exam\WebApplication11\WebApplication11\bin\log4net.xml
